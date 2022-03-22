@@ -1,0 +1,3 @@
+[submodule "linux/simple-printf"]
+	path = linux/simple-printf
+	url = https://github.com/mpredfearn/simple-printf.git

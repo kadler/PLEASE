@@ -1,0 +1,5 @@
+*.o
+linux/hello
+linux/args
+pase/please
+
